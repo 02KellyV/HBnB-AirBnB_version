@@ -1,6 +1,6 @@
 const amenities = {};
 $(document).ready(function () {
-	console.log('entre')
+  console.log('entre');
   $('input[type="checkbox"]').click(function () {
     if ($(this).prop('checked') === true) {
       amenities[$(this).attr('data-id')] = $(this).attr('data-name');

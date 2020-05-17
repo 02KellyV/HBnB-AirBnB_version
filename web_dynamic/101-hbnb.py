@@ -13,18 +13,18 @@ def teardown_db(exception):
     storage.close()
 
 
-@app.route('/4-hbnb')
+@app.route('/101-hbnb')
 def hbnb_filters(the_id=None):
     """ HBNB is alive! """
     state_objs = storage.all('State').values()
-    states = dict([state.name, state] for state in state_objs)
     amens = storage.all('Amenity').values()
+    print(amens)
     places = storage.all('Place').values()
     users = dict([user.id, "{} {}".format(user.first_name, user.last_name)]
                  for user in storage.all('User').values())
     cache_id = uuid.uuid4()
-    return render_template('4-hbnb.html',
-                           states=states,
+    return render_template('101-hbnb.html',
+                           states=state_objs,
                            amens=amens,
                            places=places,
                            users=users,

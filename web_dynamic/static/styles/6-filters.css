@@ -60,7 +60,6 @@ button:hover {
     padding-bottom: 15px;
     height: 300px;
     overflow-y: scroll;
-    scrollbar-width: none;
     max-height: 300px;
 }
 
@@ -100,4 +99,7 @@ button:hover {
 .amenities:hover .popover,
 .locations:hover .popover {
     visibility: visible;
+}
+.container .filters .popover li input .popover h2 input {
+	margin-right: 10px;
 }
