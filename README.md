@@ -156,6 +156,8 @@ No known bugs at this time.
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+Camilo Isaza - [Github](https://github.com/andresmelek) / [Twitter](https://twitter.com/andresmelek)
+Kelly Villa - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
 ##### Second part of Airbnb: Joann Vuong 
 
@@ -165,6 +167,6 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
-##### 4th part by:
-Camilo Isaza - [Github](https://github.com/Andresmelek)
-Kelly Villa - [Github](https://github.com/02KellyV)
+##### 4th changes 2020 by:
+Camilo Isaza - [Github](https://github.com/Andresmelek) / [Twitter](https://twitter.com/andresmelek)
+Kelly Villa - [Github](https://github.com/02KellyV) / [Twitter](https://twitter.com/02kellyv)
