@@ -43,9 +43,9 @@ $(document).ready(function () {
       places.forEach((place, index) => {
         $('.places').append(
           '<article>' +
-        '<div class="title">' +
+        '<div class="title_box">' +
         '<h2>' + place.name + '</h2>' +
-        '<div class="price_by_night">' + place.price_by_night +
+        '<div class="price_by_night">$' + place.price_by_night +
         '</div>' +
         '</div>' +
         '<div class="information">' +
